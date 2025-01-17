@@ -64,7 +64,7 @@ input[type="number"]:focus {
   gap: 10px;
 }
 
-@media screen and (orientation: landscape) and (min-width: 568px) {
+@media screen and (orientation: landscape) and (max-width: 568px) {
   .progress-wrapper {
       width: 80vw;
       max-width: 900px;
